@@ -17,6 +17,14 @@ Hi, I'm **Ario** (@Aritra677)! 🚀
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-FF4500?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0068B5?style=for-the-badge&logo=intel&logoColor=white)
+![Level Zero](https://img.shields.io/badge/Level_Zero-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
